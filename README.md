@@ -1,0 +1,1 @@
+Airline AI Maturity Check is a 20-question self-assessment that helps passenger airlines evaluate their readiness for AI across data, passenger engagement, operations, AI deployment, and organizational change. It provides scores, a radar chart, and practical next steps based on the airline’s two lowest-scoring areas.
